@@ -24,4 +24,5 @@ deploy:
   target-branch: main
   local-dir: dist
   on:
+    repo: xoori555/xoori555.github.io
     branch: main
