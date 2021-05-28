@@ -28,7 +28,7 @@
               <p class="panel-heading">Xoori's Links</p>
               <div class="columns">
                 <div class="column">
-                  <a class="panel-block is-active">
+                  <a class="panel-block">
                 <span class="panel-icon">
                   <i class="fab fa-tiktok" aria-hidden="true"></i>
                 </span>
