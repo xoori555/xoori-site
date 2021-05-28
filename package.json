@@ -1,0 +1,27 @@
+{
+  "name": "xoori-site",
+  "private": true,
+  "scripts": {
+    "develop": "gridsome develop",
+    "explore": "gridsome explore",
+    "build": "gridsome build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.35",
+    "@fortawesome/free-solid-svg-icons": "^5.15.3",
+    "buefy": "^0.9.7",
+    "bulmaswatch": "^0.8.1",
+    "graphql": "^15.5.0",
+    "gridsome": "^0.7.0",
+    "gridsome-source-graphql-prismic": "^0.1.6",
+    "vue": "^2.6.12"
+  },
+  "devDependencies": {
+    "@fortawesome/free-brands-svg-icons": "^5.15.3",
+    "@fortawesome/vue-fontawesome": "^2.0.2",
+    "node-sass": "^6.0.0",
+    "sass-loader": "^10.1.1"
+  }
+}
