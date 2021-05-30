@@ -7,5 +7,5 @@
 module.exports = {
   siteName: 'XeedsSpace',
   plugins: [],
-  siteUrl: 'https://xoori555.github.io'
+  siteUrl: 'https://xoori555.github.io',
 }
